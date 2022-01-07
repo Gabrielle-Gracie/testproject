@@ -1,0 +1,8 @@
+{
+    "chromeWebSecurity": false,
+    "env": {
+      "url": "https://stg.cashingames.com"
+    },
+    "pageLoadTimeout": 100000
+  }
+  
